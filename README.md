@@ -1,6 +1,5 @@
 # 🎈 Balloon Journey - Flash Animation Project
 
-
 This is a **basic animation project** created using **Macromedia Flash 8** as part of an academic submission.
 
 ## 🧒 Storyline
